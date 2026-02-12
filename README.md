@@ -25,7 +25,7 @@ A simple python script for a discord bot for checking whether a minecraft server
 ## Usage
 1. Run the python script
     ```
-    pip
+    python ./serverup.py
     ```
 2. [Add the bot](https://discord.com/oauth2/authorize?client_id=1470114967402582076) to the specified server
 3. Use the /status command in the specified server
