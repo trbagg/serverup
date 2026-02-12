@@ -15,7 +15,7 @@ A simple python script for a discord bot for checking whether a minecraft server
     ```bash
     pip install requirements.txt
     ```
-3. Create a dot-env file in the directory with the following contents
+3. Create a dot-env (.env) file in the directory with the following contents
     ```
     DISCORD_TOKEN=YOUR_API_TOKEN_HERE
     DISCORD_GUILD=SPECIFIED_GUILD_HERE
