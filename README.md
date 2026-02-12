@@ -1,6 +1,6 @@
 # Minecraft Server-Up Bot
 
-A simple python script for a discord bot for checking wehter a minecraft server is up or not.
+A simple python script for a discord bot for checking whether a minecraft server is up or not.
 
 ## Installation
 1. Clone the repository
