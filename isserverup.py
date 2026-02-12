@@ -51,7 +51,7 @@ async def thank(interaction: discord.Interaction):
 async def code(interaction: discord.Interaction):
     """Print bot code"""
     code = open("isserverup.py")
-    await interaction.response.send_message(content=code.read())
+    await interaction.response.send_message(content=f"```{code.read()}```")
     code.close()
 
 
